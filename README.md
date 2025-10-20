@@ -7,7 +7,7 @@ This project explores the shopping habits of customers across major malls in Ist
 
 The dataset is synthetic but reflects realistic patterns in retail transactions, making it ideal for practicing data manipulation, aggregation, and visualization.
 
-Project Files
+## Project Files
 source - [Kaggle](https://www.kaggle.com/datasets/ardayavuzkeskin/istanbul-retail-trends-a-customer-behavior-dataset)
 
 istanbul_sales_data.csv – Dataset used for analysis
@@ -16,7 +16,7 @@ istanbul_sales_analysis.py – Python script with data cleaning, analysis, and v
 
 charts/ – Folder containing exported charts
 
-Future Improvements
+## Future Improvements
 
 Add predictive modeling to forecast sales or category purchases.
 
