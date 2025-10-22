@@ -85,6 +85,7 @@ print(age_revenue)
 
 #Bar chart: Total revenue per shopping mall.
 shoppingmall_revenue = df.groupby('shopping_mall')['revenue'].sum().reset_index()
+print(shoppingmall_revenue)
 
 plt.figure(figsize= (7,6))
 plt.bar(shoppingmall_revenue['shopping_mall'],
