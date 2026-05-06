@@ -1,4 +1,4 @@
-# Istanbul-Retail-Sales-Analysis
+# Istanbul-Retail-Sales-Analysis (Part 1)
 Exploratory Data Analysis and Visualization of Retail Sales in Istanbul Malls.
 
 Project Overview
